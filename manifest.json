@@ -7,9 +7,8 @@
           "matches": [
             "https://duckduckgo.com/*", "http://duckduckgo.com/*"
           ],
-          "js": ["./lib/content.js", "./lib/popup.js", "./lib/undead.js"],
-          "css": ["./lib/styles.css"],
-          "html": ["./lib/popup.html"]
+          "js": ["./lib/content.js"],
+          "css": ["./lib/styles.css"]
         }
       ],
     "browser_action": {
